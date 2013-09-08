@@ -1,2 +1,10 @@
-logs/*
 !.gitkeep
+
+logs/*
+
+.DS_Store
+.swp
+
+/logs/
+/node_modules/
+/components/
